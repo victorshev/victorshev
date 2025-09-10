@@ -1,6 +1,6 @@
 # Victor Shevchenko
 
-### Hi I am a Computer Science student 
+ Hey there! I am a Computer Science student at Baldwin Wallace University
 
-#### - 🔭 I’m currently working on ...
+### - 🔭 I’m currently working on ...
 
