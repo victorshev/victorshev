@@ -1,5 +1,6 @@
-## Victor Shevchenko
-# Hi I am a Computer Science student 
+# Victor Shevchenko
 
-- 🔭 I’m currently working on ...
+### Hi I am a Computer Science student 
+
+#### - 🔭 I’m currently working on ...
 
