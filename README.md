@@ -15,7 +15,7 @@
 
 ###  [Spring Boot API Application](#)
 **Skills and Tools Used:** Java, Spring Boot, Maven, Apache NetBeans  
-- Developed a **RESTful API** using Spring Boot and Maven.  
+- Developed a  simple **RESTful API** using Spring Boot and Maven.  
 - Implemented modular design, dependency injection, and JSON-based endpoints.  
   
 
