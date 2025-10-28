@@ -4,7 +4,6 @@
 💡 **Minors:** Software Development & Business Analysis  
 🏆 **GPA:** 4.0 | **Expected Graduation:** May 2027  
 
----
 
 ## Projects
 
@@ -14,13 +13,12 @@
 - Focused on **security**, **accessibility**, and **user experience** following government compliance.  
 - Collaborated with administrators to create **sustainable documentation** and maintenance workflows.  
 
----
 
 ###  [Spring Boot API Application](#)
 **Skills and Tools Used:** Java, Spring Boot, Maven, Apache NetBeans  
 - Developed a **RESTful API** using Spring Boot and Maven.  
 - Implemented modular design, dependency injection, and JSON-based endpoints.  
----
+  
 
 ### [Java Pong Game](#)
 **Skills and Tools Used:** Java, Apache NetBeans, Maven  
@@ -28,7 +26,6 @@
 - Features responsive paddle movement, scoring system, and dynamic collision mechanics.  
 - Demonstrates **Java GUI design** and game loop logic.  
 
----
 
 ## Experience
 
@@ -43,7 +40,6 @@
 - Manage and lead **7–10 team members**, maintaining quality service and store operations.  
 - Strengthened **leadership**, **communication**, and **team coordination** skills.  
 
----
 
 ## 🧠 Leadership & Activities
 
@@ -52,7 +48,6 @@
   - 🥇 1st Place (Local) | 🏅 4th Place (State) | 🏆 National Competitor  
   - Skilled in **SQL, MySQL, SQL Server**, and **Database Development**  
 
----
 
 ## 🧰 Skills & Certifications
 
