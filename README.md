@@ -4,11 +4,9 @@
 💡 **Minors:** Software Development & Business Analysis  
 🏆 **GPA:** 4.0 | **Expected Graduation:** May 2027  
 
-
-
 ## Projects
 
-### [Living Well Medina County Website](https://livingwellmedina.org/)
+### [Living Well Medina County Website](https://livingwellmedinacounty.org/)
 **Tools and Skills:** WordPress, PHP, HTML, CSS, DevTools  
 - Built and maintained responsive websites for local health initiatives at the Medina County Health Department.  
 - Focused on **security**, **accessibility**, and **user experience** following government compliance.  
@@ -42,15 +40,14 @@
 - Strengthened **leadership**, **communication**, and **team coordination** skills.  
 
 
-## 🧠 Leadership & Activities
+##  Leadership & Activities
 
 - **Class President**, Software Development Lab — *Medina County Career Center (2023–2025)*  
 - **Business Professionals of America (BPA)** — SQL Competitor  
-  - 🥇 1st Place (Local) | 🏅 4th Place (State) | 🏆 National Competitor  
   - Skilled in **SQL, MySQL, SQL Server**, and **Database Development**  
 
 
-## 🧰 Skills & Certifications
+## Skills & Certifications
 
 **Languages & Tools:**  
 `Java` • `SQL` • `PHP` • `HTML` • `CSS` • `JavaScript` • `R` • `React` • `Node.js` • `Tableau` • `VSCode` • `Visual Studio` • `Apache NetBeans` • `SQL Server` • `MySQL` • `GitHub`
