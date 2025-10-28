@@ -19,13 +19,13 @@
   
 
 ### [Java Pong Game](#)
-**Skills and Tools Used:** Python, SQL, HTML, W3Schools 
+**Skills and Tools Used:** Java, Apache NetBeans, Maven
 - Classic Pong game built from scratch using **object-oriented programming principles**.  
 - Features responsive paddle movement, scoring system, and dynamic collision mechanics.  
 - Demonstrates **Java GUI design** and game loop logic.
 
 ### [Intro to CS](https://github.com/victorshev/VicComputerScience)
-**Skills and Tools Used:** Java, Apache NetBeans, Maven  
+**Skills and Tools Used:** Python, SQL, HTML, W3Schools  
 - Intro to IT course, focusing on computer science fundamentals 
 - Created basic programs in Python, SQL, and HTML
 
