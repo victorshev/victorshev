@@ -18,7 +18,7 @@
 - Developed a  simple/starter **RESTful API** using Spring Boot and Maven.  
   
 
-### [Java Pong Game](#)
+### [Java Pong Game](https://github.com/victorshev/JavaPong)
 **Skills and Tools Used:** Java, Apache NetBeans, Maven
 - Classic Pong game built from scratch using **object-oriented programming principles**.  
 - Features responsive paddle movement, scoring system, and dynamic collision mechanics.  
