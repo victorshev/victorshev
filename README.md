@@ -5,6 +5,7 @@
 🏆 **GPA:** 4.0 | **Expected Graduation:** May 2027  
 
 
+
 ## Projects
 
 ### [Living Well Medina County Website](https://livingwellmedina.org/)
