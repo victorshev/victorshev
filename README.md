@@ -23,7 +23,9 @@
 **Skills and Tools Used:** Java, Apache NetBeans, Maven  
 - Classic Pong game built from scratch using **object-oriented programming principles**.  
 - Features responsive paddle movement, scoring system, and dynamic collision mechanics.  
-- Demonstrates **Java GUI design** and game loop logic.  
+- Demonstrates **Java GUI design** and game loop logic.
+
+### [Intro to CS](#)
 
 
 ## Experience
