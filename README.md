@@ -13,19 +13,21 @@
 - Collaborated with administrators to create **sustainable documentation** and maintenance workflows.  
 
 
-###  [Spring Boot API Application](#)
+###  [Spring Boot API Application](https://github.com/victorshev/FirstSpringProject)
 **Skills and Tools Used:** Java, Spring Boot, Maven, Apache NetBeans  
-- Developed a  simple **RESTful API** using Spring Boot and Maven.  
-- Implemented modular design, dependency injection, and JSON-based endpoints.  
+- Developed a  simple/starter **RESTful API** using Spring Boot and Maven.  
   
 
 ### [Java Pong Game](#)
-**Skills and Tools Used:** Java, Apache NetBeans, Maven  
+**Skills and Tools Used:** Python, SQL, HTML, W3Schools 
 - Classic Pong game built from scratch using **object-oriented programming principles**.  
 - Features responsive paddle movement, scoring system, and dynamic collision mechanics.  
 - Demonstrates **Java GUI design** and game loop logic.
 
-### [Intro to CS](#)
+### [Intro to CS](https://github.com/victorshev/VicComputerScience)
+**Skills and Tools Used:** Java, Apache NetBeans, Maven  
+- Intro to IT course, focusing on computer science fundamentals 
+- Created basic programs in Python, SQL, and HTML
 
 
 ## Experience
