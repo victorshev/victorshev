@@ -6,7 +6,7 @@
 
 ## Projects
 
-### [Living Well Medina County Website](https://livingwellmedinacounty.org/)
+### [Living Well Medina County Website](https://livingwellmedinacounty.com/)
 **Tools and Skills:** WordPress, PHP, HTML, CSS, DevTools  
 - Built and maintained responsive websites for local health initiatives at the Medina County Health Department.  
 - Focused on **security**, **accessibility**, and **user experience** following government compliance.  
