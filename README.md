@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Major** at **Baldwin Wallace University**  
 💡 **Minors:** Software Development & Business Analysis  
-🏆 **GPA:** 4.0 | **Expected Graduation:** May 2027  
+🏆 **GPA:** 3.9 | **Expected Graduation:** May 2027  
 
 ## Projects
 
