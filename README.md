@@ -35,13 +35,8 @@
 ### 🖥️ **IT Intern — Medina County Health Department**  
 📍 *Medina, OH | March 2025 – Oct 2025*  
 - Built and maintained multiple websites using **WordPress, PHP, HTML, and CSS**.  
-- Worked with the **Health Director** and **Network Administrator** to meet public health communication needs.  
-- Created documentation and **security best practices** for future developers and content editors.  
-
-###  **Shift Supervisor — Panera Bread**  
-📍 *Brunswick, OH | Oct 2023 – Present*  
-- Manage and lead **7–10 team members**, maintaining quality service and store operations.  
-- Strengthened **leadership**, **communication**, and **team coordination** skills.  
+- Worked with the **Health Director** and **Network Administrator** to meet public health needs.
+- Created documentation and **security best practices** for future developers or workers maintaining the site. 
 
 
 ##  Leadership & Activities
